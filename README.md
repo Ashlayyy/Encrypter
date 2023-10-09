@@ -1,4 +1,4 @@
-![Logo](http://localhost:8000/images/Project/encrypter.png)
+![Logo](https://ashlaydev.com/images/Project/encrypter.png)
 
 # Encrypter
 
